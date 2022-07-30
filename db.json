@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Arnaldo Bermúdez",
+      "empresa": "Boostalent",
+      "email": "arnalfox@gmail.com",
+      "telefono": "956737627",
+      "notas": "Test...",
+      "id": 1
+    },
+    {
+      "nombre": "Norbelis Vizcaya",
+      "empresa": "Boostalent Interim EST",
+      "email": "norbelis@gmail.com",
+      "telefono": "95678013920",
+      "notas": "RRHH",
+      "id": 2
+    },
+    {
+      "nombre": "Manu Manu",
+      "empresa": "Pollo Pio",
+      "email": "manu@gmail.com",
+      "telefono": "9876073412",
+      "notas": "El pollito pio",
+      "id": 3
+    }
+  ]
+}
